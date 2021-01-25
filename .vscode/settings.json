@@ -1,0 +1,7 @@
+{
+  "python.pythonPath": "env/bin/python",
+  // "python.linting.enabled": true,
+  // "workbench.colorCustomizations": {
+  //   "editorWarning.foreground": "#00000000",
+  // }
+}
